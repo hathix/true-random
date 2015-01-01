@@ -1,0 +1,34 @@
+[file_prefs]
+final_new_line=true
+ensure_convert_new_lines=false
+strip_trailing_spaces=false
+replace_tabs=false
+
+[indentation]
+indent_width=4
+indent_type=1
+indent_hard_tab_width=8
+detect_indent=false
+detect_indent_width=false
+indent_mode=2
+
+[project]
+name=Science Fair
+base_path=C:\\Users\\Neel\\Dropbox\\Science Fair\\code
+description=
+file_patterns=
+
+[long line marker]
+long_line_behaviour=1
+long_line_column=72
+
+[files]
+current_page=0
+FILE_NAME_0=2877;HTML;0;16;1;1;1;%2Fhost%2FUsers%2FNeel%2FDesktop%2FDowntime%2Fcode%2Findex.html;0;4
+FILE_NAME_1=301;Javascript;0;16;1;1;1;%2Fhost%2FUsers%2FNeel%2FDesktop%2FDowntime%2Fcode%2Fjs%2Fapp.js;0;4
+FILE_NAME_2=659;CSS;0;16;1;1;1;%2Fhost%2FUsers%2FNeel%2FDesktop%2FDowntime%2Fcode%2Fcss%2Fdowntime-base.css;0;4
+
+[build-menu]
+
+[VTE]
+last_dir=/host/Users/Neel/Desktop/Downtime/code

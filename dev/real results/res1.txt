@@ -1,0 +1,110 @@
+===RANDOMDOTORG===
+	Aggregate:0.604547263233
+	maurersuniversalstatistictest:	0.596293928354
+	longestrunones10000:	0.625926285233
+	overlappingtemplatematchingtest:	0.852916655577
+	randomexcursionsvarianttest:	0.658782644825
+	nonoverlappingtemplatematchingtest:	0.475531242308
+	randomexcursionstest:	0.550680532262
+	spectraltest:	0.928239489512
+	binarymatrixranktest:	0.767828591952
+	monobitfrequencytest:	0.572543947592
+	cumultativesumstest:	0.721972132911
+	blockfrequencytest:	0.12837780705
+	runstest:	0.694064868129
+	cumultativesumstestreverse:	0.285956296325
+===QUANTUM RANDOM===
+	Aggregate:0.647517455961
+	maurersuniversalstatistictest:	0.987138235056
+	longestrunones10000:	0.999416801275
+	overlappingtemplatematchingtest:	0.10712529303
+	randomexcursionsvarianttest:	0.608252315941
+	nonoverlappingtemplatematchingtest:	0.618395199709
+	randomexcursionstest:	0.59652201079
+	spectraltest:	0.301854888772
+	binarymatrixranktest:	0.153230830714
+	monobitfrequencytest:	0.941506775449
+	cumultativesumstest:	0.774865722698
+	blockfrequencytest:	0.823998197793
+	runstest:	0.799198972714
+	cumultativesumstestreverse:	0.706221683545
+===DEFAULT RANDOM===
+	Aggregate:0.514360350087
+	maurersuniversalstatistictest:	0.672397528026
+	longestrunones10000:	0.70990997643
+	overlappingtemplatematchingtest:	0.697448571001
+	randomexcursionsvarianttest:	0.244495271126
+	nonoverlappingtemplatematchingtest:	0.795547566567
+	randomexcursionstest:	0.469823090655
+	spectraltest:	0.626496274347
+	binarymatrixranktest:	0.386573971789
+	monobitfrequencytest:	0.251996719402
+	cumultativesumstest:	0.455333940815
+	blockfrequencytest:	0.121497252386
+	runstest:	0.868889666822
+	cumultativesumstestreverse:	0.386274721764
+===SYSTEM RANDOM===
+	Aggregate:0.609600883988
+	maurersuniversalstatistictest:	0.945175954294
+	longestrunones10000:	0.153747018783
+	overlappingtemplatematchingtest:	0.842688364539
+	randomexcursionsvarianttest:	0.40298542358
+	nonoverlappingtemplatematchingtest:	0.606597616536
+	randomexcursionstest:	0.49149771975
+	spectraltest:	0.205754101273
+	binarymatrixranktest:	0.632815962271
+	monobitfrequencytest:	0.938001667089
+	cumultativesumstest:	0.48853673687
+	blockfrequencytest:	0.731426311752
+	runstest:	0.932361395114
+	cumultativesumstestreverse:	0.553223219988
+===RANDOM SEEDING TWISTER===
+	Aggregate:0.563888435983
+	maurersuniversalstatistictest:	0.203869756971
+	longestrunones10000:	0.544307374277
+	overlappingtemplatematchingtest:	0.890209507431
+	randomexcursionsvarianttest:	0.684301677702
+	nonoverlappingtemplatematchingtest:	0.54507608191
+	randomexcursionstest:	0.632475351438
+	spectraltest:	0.309788106673
+	binarymatrixranktest:	0.436380060041
+	monobitfrequencytest:	0.585414564846
+	cumultativesumstest:	0.528304638778
+	blockfrequencytest:	0.477027448228
+	runstest:	0.7647557486
+	cumultativesumstestreverse:	0.728639350885
+===TIME SEEDING TWISTER===
+	Aggregate:0.476588428135
+	maurersuniversalstatistictest:	0.284059810208
+	longestrunones10000:	0.116643244245
+	overlappingtemplatematchingtest:	0.967701781002
+	randomexcursionsvarianttest:	0.260833239205
+	nonoverlappingtemplatematchingtest:	0.334937639424
+	randomexcursionstest:	0.257007066054
+	spectraltest:	0.146793087309
+	binarymatrixranktest:	0.0986091496379
+	monobitfrequencytest:	0.993692234401
+	cumultativesumstest:	0.876383676209
+	blockfrequencytest:	0.039357037748
+	runstest:	0.949570774376
+	cumultativesumstestreverse:	0.870060825939
+===QUANTUM SEEDING TWISTER===
+	Aggregate:0.464638850854
+	maurersuniversalstatistictest:	0.247259025502
+	longestrunones10000:	0.518863257164
+	overlappingtemplatematchingtest:	0.038074353609
+	randomexcursionsvarianttest:	0.618944561699
+	nonoverlappingtemplatematchingtest:	0.0883260317763
+	randomexcursionstest:	0.486658221817
+	spectraltest:	0.404113254575
+	binarymatrixranktest:	0.859053485058
+	monobitfrequencytest:	0.669446714158
+	cumultativesumstest:	0.449314985473
+	blockfrequencytest:	0.528691180424
+	runstest:	0.447452338872
+	cumultativesumstestreverse:	0.684107650976
+
+
+------------------
+(program exited with code: 0)
+Press return to continue

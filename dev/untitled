@@ -1,0 +1,32 @@
+	'''
+    writer.write_nums('gen/noent.bin',[1 for a in range(1,1000)]) #1000 ordered nums
+    
+    nums = get_random_numbers(3242341) # get better seed
+    writer.write_nums('gen/ent.bin',nums)
+    '''
+    
+    '''
+    # built in
+    import builtin
+    
+    seed = builtin.get_seed()
+    nums = get_random_numbers(seed)
+    '''
+    
+    '''
+    print(random.random())
+    
+    #time
+    now = datetime.now()
+    seed = now.microsecond; #seed
+    
+    #random
+    seed = int(random.random() * 1000)
+    
+    #system random
+    floating = random.SystemRandom.random(random.SystemRandom())
+    integer = int(floating * 1000)
+    seed = integer
+    
+    print(get_random_numbers(seed))
+    '''
